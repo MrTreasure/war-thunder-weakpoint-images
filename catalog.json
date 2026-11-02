@@ -989,17 +989,15 @@
     },
     {
       "source": {
-        "url": "https://www.bilibili.com/video/BV1SPmEBJE3y/",
-        "title": "超级旷世巨作！萌新别划走，一个视频告诉你战争雷霆各系二战/冷战坦克弱点都在哪？",
-        "author": "罗非鱼解说",
-        "publishedAt": "2025-12-12"
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28"
       },
       "width": 1920,
       "height": 1080,
-      "status": "candidate-unverified-identity",
-      "vehicleId": null,
-      "approximateTimeSeconds": 60,
-      "timeBasis": "filename-estimate-unless-exact-proof-supplied",
+      "status": "hd-front-ready-needs-specific-weakpoint",
+      "vehicleId": "us_m1a1_hc_usmc",
       "id": "1565197f4bea34166347088164ec93ef00e739d31fed98f76e50f8f539981c7c",
       "path": "images/captures/1565197f4bea34166347088164ec93ef00e739d31fed98f76e50f8f539981c7c.webp",
       "sha256": "1565197f4bea34166347088164ec93ef00e739d31fed98f76e50f8f539981c7c",
@@ -1010,21 +1008,21 @@
       "kind": "source-video-frame-webp",
       "roles": [
         "source-frame"
-      ]
+      ],
+      "mediaTime": 60,
+      "proofSnapshotSHA256": "7b4259cd3cd92222f8f111c31f9ba9582f865d8baab188a2ce822460e3f55e4c"
     },
     {
       "source": {
-        "url": "https://www.bilibili.com/video/BV1SPmEBJE3y/",
-        "title": "超级旷世巨作！萌新别划走，一个视频告诉你战争雷霆各系二战/冷战坦克弱点都在哪？",
-        "author": "罗非鱼解说",
-        "publishedAt": "2025-12-12"
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28"
       },
       "width": 1920,
       "height": 1080,
       "status": "candidate-unverified-identity",
       "vehicleId": null,
-      "approximateTimeSeconds": 180,
-      "timeBasis": "filename-estimate-unless-exact-proof-supplied",
       "id": "717fddde5acc19baa6894f320181423e89abaa768e785b7c19f0b5ef34f2be43",
       "path": "images/captures/717fddde5acc19baa6894f320181423e89abaa768e785b7c19f0b5ef34f2be43.webp",
       "sha256": "717fddde5acc19baa6894f320181423e89abaa768e785b7c19f0b5ef34f2be43",
@@ -1035,7 +1033,9 @@
       "kind": "source-video-frame-webp",
       "roles": [
         "source-frame"
-      ]
+      ],
+      "mediaTime": 180.033,
+      "proofSnapshotSHA256": "a85274289972e3dd0eca71b2bc1790670b78027c7c66dc337d593155df07613d"
     },
     {
       "source": {
@@ -1457,6 +1457,156 @@
       ],
       "vehicleId": "ussr_is_3",
       "status": "review-sample"
+    },
+    {
+      "id": "8acebc65a05ea2e60691d5571281858b471a27c42f75844e9f3252cb450383a5",
+      "path": "images/captures/8acebc65a05ea2e60691d5571281858b471a27c42f75844e9f3252cb450383a5.webp",
+      "sha256": "8acebc65a05ea2e60691d5571281858b471a27c42f75844e9f3252cb450383a5",
+      "bytes": 2238062,
+      "sourceFrameSHA256": "141d2b23ad492531830e7687d6bd694e8d2db0cf87842d7cc9b84089776cf4c9",
+      "sourceBytes": 4294650,
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "encoding": "lossless-webp",
+      "status": "candidate-unverified-identity",
+      "vehicleId": null,
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28"
+      },
+      "mediaTime": 400.017,
+      "width": 1920,
+      "height": 1080,
+      "proofSnapshotSHA256": "db4f097867801335044fab49175103e6debf6220832e554b59cac4a43dc4f337"
+    },
+    {
+      "id": "0abab528eacce710f857213be6deaee8cffb6fd1e6f6297b440799b5ebc36779",
+      "path": "images/captures/0abab528eacce710f857213be6deaee8cffb6fd1e6f6297b440799b5ebc36779.webp",
+      "sha256": "0abab528eacce710f857213be6deaee8cffb6fd1e6f6297b440799b5ebc36779",
+      "bytes": 376048,
+      "sourceFrameSHA256": "eaaa8eee2b2e9454c2a2300b07173e56924f9050a6e44f0a69cf2f371b41b361",
+      "sourceBytes": 803299,
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "encoding": "lossless-webp",
+      "status": "candidate-unverified-identity",
+      "vehicleId": null,
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28"
+      },
+      "mediaTime": 150,
+      "width": 1920,
+      "height": 1080,
+      "proofSnapshotSHA256": "cf745c7cd2361bcb465bdaf7be1fe0e79160bfafb5acb51ae84fa01cb5fa3aae"
+    },
+    {
+      "id": "6f7ca3d3b48c902472459916c90dce3ae93b3b42b5eaaa6f309d60b67e285eb7",
+      "path": "images/captures/6f7ca3d3b48c902472459916c90dce3ae93b3b42b5eaaa6f309d60b67e285eb7.webp",
+      "sha256": "6f7ca3d3b48c902472459916c90dce3ae93b3b42b5eaaa6f309d60b67e285eb7",
+      "bytes": 1719084,
+      "sourceFrameSHA256": "8ea24b001881db92a9fe263cb12911ba2c0c32cfd00207150710aad45660e358",
+      "sourceBytes": 3441461,
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "encoding": "lossless-webp",
+      "status": "candidate-unverified-identity",
+      "vehicleId": null,
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28"
+      },
+      "mediaTime": 100.017,
+      "width": 1920,
+      "height": 1080,
+      "proofSnapshotSHA256": "41bf21706dd003dd65ee7ec94ba8d8936e0434129f0932f1f06b31e896cefc44"
+    },
+    {
+      "id": "a792a58f8ce8ef7628431c35411a784ba5d5f4cd89fb410042434b49667179d8",
+      "path": "images/captures/a792a58f8ce8ef7628431c35411a784ba5d5f4cd89fb410042434b49667179d8.webp",
+      "sha256": "a792a58f8ce8ef7628431c35411a784ba5d5f4cd89fb410042434b49667179d8",
+      "bytes": 2067696,
+      "sourceFrameSHA256": "2639313786024b6e2318f91da10a15ea88a7b77c3feb99902708a2f4bb668d6e",
+      "sourceBytes": 4054000,
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "encoding": "lossless-webp",
+      "status": "candidate-unverified-identity",
+      "vehicleId": null,
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28"
+      },
+      "mediaTime": 165.017,
+      "width": 1920,
+      "height": 1080,
+      "proofSnapshotSHA256": "88ad4e4716728d420e11b81d46d653fbf6a6357ca0bb237099a6dc403b3e97f1"
+    },
+    {
+      "id": "5adb92029d907b317e8155639e310b0d228d7e40345800c90f107c81d05df34f",
+      "path": "images/captures/5adb92029d907b317e8155639e310b0d228d7e40345800c90f107c81d05df34f.webp",
+      "sha256": "5adb92029d907b317e8155639e310b0d228d7e40345800c90f107c81d05df34f",
+      "bytes": 1915100,
+      "sourceFrameSHA256": "4c5b6354dd57a072243c22a163db691ffb1a25555c835ff56a0c1ed1ebe9b75e",
+      "sourceBytes": 3763731,
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "encoding": "lossless-webp",
+      "status": "candidate-unverified-identity",
+      "vehicleId": null,
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28"
+      },
+      "mediaTime": 175,
+      "width": 1920,
+      "height": 1080,
+      "proofSnapshotSHA256": "d62acddcd393faf649778e949c2b6bb9b55eaaf2c15e491f7e9c4403d3da0191"
+    },
+    {
+      "id": "df9e57f27c3256a50a2c27760ce69fed793e7d6d039c4adcc1eb45abaa16735c",
+      "path": "images/captures/df9e57f27c3256a50a2c27760ce69fed793e7d6d039c4adcc1eb45abaa16735c.webp",
+      "sha256": "df9e57f27c3256a50a2c27760ce69fed793e7d6d039c4adcc1eb45abaa16735c",
+      "bytes": 1970562,
+      "sourceFrameSHA256": "475f70db4c3d2f7069d88223424eb41dd81386d90d388b1519b75f168a9f51f9",
+      "sourceBytes": 3903266,
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "encoding": "lossless-webp",
+      "status": "candidate-unverified-identity",
+      "vehicleId": null,
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28"
+      },
+      "mediaTime": 80,
+      "width": 1920,
+      "height": 1080,
+      "proofSnapshotSHA256": "f033f6cc3457d29bf900725af1428db5f0689fe13a9088ce95f5cad4580ce63b"
     }
   ],
   "models": {
