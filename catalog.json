@@ -7659,6 +7659,239 @@
       "id": "3d8c21a26268f6c02d1552d8345684fc125c7331cf699ab73ddd9dad0f5f3707",
       "actualTime": 1184,
       "encoding": "lossless-webp"
+    },
+    {
+      "path": "images/USA/USA-IPM1-Abrams-front.webp",
+      "sha256": "bb058751d3b0f814ebef0c31b0541ad010151b551c54fa39fa11af9865cdafaf",
+      "bytes": 226376,
+      "width": 750,
+      "height": 450,
+      "vehicleId": "us_m1_ip_abrams",
+      "country": "USA",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1CueU6cECo/",
+        "title": "平成大小姐2026の食用指南【雷批大学习/90式战车】",
+        "author": "馒头Emoil",
+        "publishedAt": "2026-09-18T17:56:17+08:00"
+      },
+      "caseId": "us_m1_ip_abrams:BV1CueU6cECo:380017",
+      "mediaTime": 380.016687,
+      "sourceTime": 380.016687,
+      "sourceFrameSHA256": "fa8978c4c9d04926baa2ee2ed88f2f5c4ac426f650f379569a837579b3b8cc17",
+      "proofSnapshotSHA256": "ba32e02b472135e8eb6c45f9b0af5a80cb2764d161dda38c466b2d4e33117c89",
+      "sourceGameVersion": null,
+      "kind": "front-view-crop-webp",
+      "roles": [
+        "primary-crop"
+      ],
+      "purpose": "primary-protection-analysis",
+      "mainImageUsable": true,
+      "sceneKind": "opaque-solid-armour-penetration-map",
+      "visibleView": "front",
+      "mainViewKind": "protection-analysis",
+      "hasGreenArmourMap": true,
+      "crop": [
+        650,
+        210,
+        750,
+        450
+      ],
+      "id": "bb058751d3b0f814ebef0c31b0541ad010151b551c54fa39fa11af9865cdafaf",
+      "actualTime": 380.016687,
+      "encoding": "lossless-webp"
+    },
+    {
+      "path": "images/USA/USA-M1A1-SA-Abrams-front.webp",
+      "sha256": "f29cd1f281f8c4306d82d5b60c6d933e52a2a6aa8703edf40681428dcd0f880e",
+      "bytes": 226724,
+      "width": 750,
+      "height": 450,
+      "vehicleId": "us_m1a1_aim_abrams",
+      "country": "USA",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1CueU6cECo/",
+        "title": "平成大小姐2026の食用指南【雷批大学习/90式战车】",
+        "author": "馒头Emoil",
+        "publishedAt": "2026-09-18T17:56:17+08:00"
+      },
+      "caseId": "us_m1a1_aim_abrams:BV1CueU6cECo:405017",
+      "mediaTime": 405.016687,
+      "sourceTime": 405.016687,
+      "sourceFrameSHA256": "db01a4bc955b0fefb8f205d2a07d5f48be6bdb6a618ab7c546027bc49d9c09b1",
+      "proofSnapshotSHA256": "54b7be2fcaf37e4f62e9516dc509a7a0b7b7e00537dce6842590482de0dbd52e",
+      "sourceGameVersion": null,
+      "kind": "front-view-crop-webp",
+      "roles": [
+        "primary-crop"
+      ],
+      "purpose": "primary-protection-analysis",
+      "mainImageUsable": true,
+      "sceneKind": "opaque-solid-armour-penetration-map",
+      "visibleView": "front",
+      "mainViewKind": "protection-analysis",
+      "hasGreenArmourMap": true,
+      "crop": [
+        650,
+        210,
+        750,
+        450
+      ],
+      "id": "f29cd1f281f8c4306d82d5b60c6d933e52a2a6aa8703edf40681428dcd0f880e",
+      "actualTime": 405.016687,
+      "encoding": "lossless-webp"
+    },
+    {
+      "path": "images/GBR/GBR-TTD-front.webp",
+      "sha256": "c92b1b1c54eb5b0268f8c959db3707af3878427f818e0d5bcc8fd947429be90d",
+      "bytes": 619770,
+      "width": 1560,
+      "height": 900,
+      "vehicleId": "uk_ttd",
+      "country": "GBR",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1CueU6cECo/",
+        "title": "平成大小姐2026の食用指南【雷批大学习/90式战车】",
+        "author": "馒头Emoil",
+        "publishedAt": "2026-09-18T17:56:17+08:00"
+      },
+      "caseId": "uk_ttd:BV1CueU6cECo:713017",
+      "mediaTime": 713.016687,
+      "sourceTime": 713.016687,
+      "sourceFrameSHA256": "67da6896c1a793e8566b8837baa075526c1180bade737259aa9cf0d5a6f8b970",
+      "proofSnapshotSHA256": "34fd184be2f9a29e3b3dd1994b86f9b4049ffc27c1a1a4427c86ab86e0600100",
+      "sourceGameVersion": null,
+      "kind": "front-view-crop-webp",
+      "roles": [
+        "primary-crop"
+      ],
+      "purpose": "primary-protection-analysis",
+      "mainImageUsable": true,
+      "sceneKind": "opaque-solid-armour-penetration-map",
+      "visibleView": "front",
+      "mainViewKind": "protection-analysis",
+      "hasGreenArmourMap": true,
+      "crop": [
+        1260,
+        400,
+        1560,
+        900
+      ],
+      "id": "c92b1b1c54eb5b0268f8c959db3707af3878427f818e0d5bcc8fd947429be90d",
+      "actualTime": 713.016687,
+      "encoding": "lossless-webp"
+    },
+    {
+      "path": "images/GBR/GBR-Challenger-2-TES-front.webp",
+      "sha256": "d235529bf03eb9eef4af7daba883fe651c61eeba605b0b82cc7bf2d9a9c803fa",
+      "bytes": 599296,
+      "width": 1560,
+      "height": 900,
+      "vehicleId": "uk_challenger_2_tes",
+      "country": "GBR",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1CueU6cECo/",
+        "title": "平成大小姐2026の食用指南【雷批大学习/90式战车】",
+        "author": "馒头Emoil",
+        "publishedAt": "2026-09-18T17:56:17+08:00"
+      },
+      "caseId": "uk_challenger_2_tes:BV1CueU6cECo:745000",
+      "mediaTime": 745,
+      "sourceTime": 745,
+      "sourceFrameSHA256": "9b82a4a6b2ee29f210551032899e2fadc00b456d5543051e4369e0ba19462490",
+      "proofSnapshotSHA256": "610936f5e667b6cd474154a7769996e2f7885150df7deacc030e4a70a8fd3552",
+      "sourceGameVersion": null,
+      "kind": "front-view-crop-webp",
+      "roles": [
+        "primary-crop"
+      ],
+      "purpose": "primary-protection-analysis",
+      "mainImageUsable": true,
+      "sceneKind": "opaque-solid-armour-penetration-map",
+      "visibleView": "front",
+      "mainViewKind": "protection-analysis",
+      "hasGreenArmourMap": true,
+      "crop": [
+        1260,
+        400,
+        1560,
+        900
+      ],
+      "id": "d235529bf03eb9eef4af7daba883fe651c61eeba605b0b82cc7bf2d9a9c803fa",
+      "actualTime": 745,
+      "encoding": "lossless-webp"
+    },
+    {
+      "path": "images/USA/USA-M1-Abrams-source-05m47s-native1080p-capture-20261103.webp",
+      "sha256": "235b129ae468b844657fee4a7268fe1e7a05d0c244d6cb3aaf735a1c3617dbb7",
+      "bytes": 1298530,
+      "width": 1920,
+      "height": 1080,
+      "vehicleId": "us_m1_abrams",
+      "country": "USA",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1CueU6cECo/",
+        "title": "平成大小姐2026の食用指南【雷批大学习/90式战车】",
+        "author": "馒头Emoil",
+        "publishedAt": "2026-09-18T17:56:17+08:00"
+      },
+      "caseId": "us_m1_abrams:BV1CueU6cECo:347000",
+      "mediaTime": 347,
+      "sourceTime": 347,
+      "sourceFrameSHA256": "62182786d4240dd6d2f2604b4de6b889124810051c091e64af989ed801453047",
+      "proofSnapshotSHA256": "ad072b64302408d27606a37eb03bd3dfce282eef81b17f1192d2baeffdb3b06a",
+      "sourceGameVersion": null,
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "purpose": "source-evidence-only",
+      "mainImageUsable": false,
+      "sceneKind": "opaque-solid-armour-penetration-map",
+      "visibleView": "front",
+      "hasGreenArmourMap": true,
+      "id": "235b129ae468b844657fee4a7268fe1e7a05d0c244d6cb3aaf735a1c3617dbb7",
+      "actualTime": 347,
+      "encoding": "source-webp-preserved"
+    },
+    {
+      "path": "images/USA/USA-M1-Abrams-front.webp",
+      "sha256": "19b7b499e014c01ffd4767d2972cfc28a30f00263ec703c322118eb5f0b6a04a",
+      "bytes": 226806,
+      "width": 750,
+      "height": 450,
+      "vehicleId": "us_m1_abrams",
+      "country": "USA",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1CueU6cECo/",
+        "title": "平成大小姐2026の食用指南【雷批大学习/90式战车】",
+        "author": "馒头Emoil",
+        "publishedAt": "2026-09-18T17:56:17+08:00"
+      },
+      "caseId": "us_m1_abrams:BV1CueU6cECo:347000",
+      "mediaTime": 347,
+      "sourceTime": 347,
+      "sourceFrameSHA256": "62182786d4240dd6d2f2604b4de6b889124810051c091e64af989ed801453047",
+      "proofSnapshotSHA256": "ad072b64302408d27606a37eb03bd3dfce282eef81b17f1192d2baeffdb3b06a",
+      "sourceGameVersion": null,
+      "kind": "front-view-crop-webp",
+      "roles": [
+        "primary-crop"
+      ],
+      "purpose": "primary-protection-analysis",
+      "mainImageUsable": true,
+      "sceneKind": "opaque-solid-armour-penetration-map",
+      "visibleView": "front",
+      "mainViewKind": "protection-analysis",
+      "hasGreenArmourMap": true,
+      "crop": [
+        650,
+        210,
+        750,
+        450
+      ],
+      "id": "19b7b499e014c01ffd4767d2972cfc28a30f00263ec703c322118eb5f0b6a04a",
+      "actualTime": 347,
+      "encoding": "lossless-webp"
     }
   ],
   "models": {
@@ -7801,6 +8034,26 @@
     "ussr_t_72b": {
       "raw": "images/USSR/USSR-T-72B-source-19m44s-native1080p-capture-20261103.webp",
       "photo": "images/USSR/USSR-T-72B-front.webp"
+    },
+    "us_m1_ip_abrams": {
+      "raw": "images/USA/USA-IPM1-0380-1080p.webp",
+      "photo": "images/USA/USA-IPM1-Abrams-front.webp"
+    },
+    "us_m1a1_aim_abrams": {
+      "raw": "images/USA/USA-M1A1-SA-0405-1080p.webp",
+      "photo": "images/USA/USA-M1A1-SA-Abrams-front.webp"
+    },
+    "uk_ttd": {
+      "raw": "images/GBR/GBR-TTD-0713-4k.webp",
+      "photo": "images/GBR/GBR-TTD-front.webp"
+    },
+    "uk_challenger_2_tes": {
+      "raw": "images/GBR/GBR-Challenger-2-TES-0745-4k.webp",
+      "photo": "images/GBR/GBR-Challenger-2-TES-front.webp"
+    },
+    "us_m1_abrams": {
+      "raw": "images/USA/USA-M1-Abrams-source-05m47s-native1080p-capture-20261103.webp",
+      "photo": "images/USA/USA-M1-Abrams-front.webp"
     }
   },
   "namingPolicy": "Country abbreviation + full English vehicle model + view or video timestamp; no content hashes in filenames."
