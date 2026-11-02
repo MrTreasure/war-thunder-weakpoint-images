@@ -2329,6 +2329,316 @@
       "country": "GER",
       "vehicleIdentityStatus": "confirmed",
       "proofSnapshotSHA256": "e372858a567c18bfa7840698a3c64d8f1cf066e3991391bf45e1f07247238302"
+    },
+    {
+      "id": "3fbebb36e7a25c12c01629d373aea893e3150e618312a5af943244d038ea7f51",
+      "path": "images/USSR/USSR-IS-2-1943-16m52s.webp",
+      "sha256": "3fbebb36e7a25c12c01629d373aea893e3150e618312a5af943244d038ea7f51",
+      "bytes": 1332976,
+      "sourceFrameSHA256": "c391b0a63ed8e52a57f5dc5a57f9ccba61af1890e056ec4118850e7465e85b86",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1SPmEBJE3y/",
+        "title": "超级旷世巨作！萌新别划走，一个视频告诉你战争雷霆各系二战/冷战坦克弱点都在哪？",
+        "author": "罗非鱼解说",
+        "publishedAt": "2025-12-12T18:28:48+08:00",
+        "gameVersion": "2.49.0.98"
+      },
+      "mediaTime": 1012,
+      "actualTime": 1012,
+      "width": 1920,
+      "height": 1080,
+      "encoding": "lossless-webp",
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "vehicleId": "ussr_is_2_1943",
+      "vehicleEnglishName": "IS-2 (1943)",
+      "country": "USSR",
+      "vehicleIdentityStatus": "confirmed",
+      "mainImageUsable": true,
+      "purpose": "main-image-candidate",
+      "status": "data-reviewed",
+      "proofSnapshotSHA256": "991cfbb16300aafae6f11685ca4ca8d97ff09ed7b0e388a4eec60a01be56e0bc"
+    },
+    {
+      "id": "0bb4291e813acdd8823859942d74d1b2ff4451766ae0cbf5f4491b8214c77b1b",
+      "path": "images/USSR/USSR-IS-2-1943-16m54s.webp",
+      "sha256": "0bb4291e813acdd8823859942d74d1b2ff4451766ae0cbf5f4491b8214c77b1b",
+      "bytes": 1405638,
+      "sourceFrameSHA256": "dde1fbd1fe5e290ce3b279349fc295d7dd753bea8efbd25f4f459e5ea567faf3",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1SPmEBJE3y/",
+        "title": "超级旷世巨作！萌新别划走，一个视频告诉你战争雷霆各系二战/冷战坦克弱点都在哪？",
+        "author": "罗非鱼解说",
+        "publishedAt": "2025-12-12T18:28:48+08:00",
+        "gameVersion": "2.49.0.98"
+      },
+      "mediaTime": 1014.033,
+      "actualTime": 1014.033,
+      "width": 1920,
+      "height": 1080,
+      "encoding": "lossless-webp",
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "vehicleId": "ussr_is_2_1943",
+      "vehicleEnglishName": "IS-2 (1943)",
+      "country": "USSR",
+      "vehicleIdentityStatus": "confirmed",
+      "mainImageUsable": false,
+      "purpose": "source-evidence-only",
+      "status": "data-reviewed",
+      "proofSnapshotSHA256": "871cfe83d56336a36104612f1b59e0196ff61f47be01bc8ecd9bfd148b369e66"
+    },
+    {
+      "id": "380dd9b0e4653068ea68f6e43f423bc0f67b7149cc93500a6472453853bb504f",
+      "path": "images/USSR/USSR-IS-2-1943-16m56s.webp",
+      "sha256": "380dd9b0e4653068ea68f6e43f423bc0f67b7149cc93500a6472453853bb504f",
+      "bytes": 1386260,
+      "sourceFrameSHA256": "c0ab92977d5e8788a3f6217de19914d2f34e897b7bafff07e3293fbe1c7c410b",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1SPmEBJE3y/",
+        "title": "超级旷世巨作！萌新别划走，一个视频告诉你战争雷霆各系二战/冷战坦克弱点都在哪？",
+        "author": "罗非鱼解说",
+        "publishedAt": "2025-12-12T18:28:48+08:00",
+        "gameVersion": "2.49.0.98"
+      },
+      "mediaTime": 1016.017,
+      "actualTime": 1016.017,
+      "width": 1920,
+      "height": 1080,
+      "encoding": "lossless-webp",
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "vehicleId": "ussr_is_2_1943",
+      "vehicleEnglishName": "IS-2 (1943)",
+      "country": "USSR",
+      "vehicleIdentityStatus": "confirmed",
+      "mainImageUsable": false,
+      "purpose": "source-evidence-only",
+      "status": "data-reviewed",
+      "proofSnapshotSHA256": "95165a17f15276edd15f868287846d0132481c38e976c0a9acbb38e1d495c709"
+    },
+    {
+      "id": "8923b9b157ff7b1d8d5cc9814f3bb8598b3c4e19b9b057f7ff094bd52fb9837d",
+      "path": "images/USSR/USSR-IS-3-16m58s.webp",
+      "sha256": "8923b9b157ff7b1d8d5cc9814f3bb8598b3c4e19b9b057f7ff094bd52fb9837d",
+      "bytes": 1382740,
+      "sourceFrameSHA256": "7d369c70ed3bcdc685b14bc8de5c7fd97f38883c68f1f6c0c3cf7a6fd5ab616a",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1SPmEBJE3y/",
+        "title": "超级旷世巨作！萌新别划走，一个视频告诉你战争雷霆各系二战/冷战坦克弱点都在哪？",
+        "author": "罗非鱼解说",
+        "publishedAt": "2025-12-12T18:28:48+08:00",
+        "gameVersion": "2.49.0.98"
+      },
+      "mediaTime": 1018.033,
+      "actualTime": 1018.033,
+      "width": 1920,
+      "height": 1080,
+      "encoding": "lossless-webp",
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "vehicleId": "ussr_is_3",
+      "vehicleEnglishName": "IS-3",
+      "country": "USSR",
+      "vehicleIdentityStatus": "confirmed",
+      "mainImageUsable": false,
+      "purpose": "source-evidence-only",
+      "status": "data-reviewed",
+      "proofSnapshotSHA256": "5cc1b2dcd45f3092208765075cdaff1ca556be06e4c13cf4396e2f53b7ba1c5e"
+    },
+    {
+      "id": "be1d72e1359666cd8f2bc3ce2d2a85a85b770c4f6397b0d7b8c69ca14fa99017",
+      "path": "images/USSR/USSR-IS-6-17m26s-capture-20261102.webp",
+      "sha256": "be1d72e1359666cd8f2bc3ce2d2a85a85b770c4f6397b0d7b8c69ca14fa99017",
+      "bytes": 987720,
+      "sourceFrameSHA256": "d1c8d326049a2fe9277999df6075183289df6a38730d6f7ad98e51ea823e1b6a",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1SPmEBJE3y/",
+        "title": "超级旷世巨作！萌新别划走，一个视频告诉你战争雷霆各系二战/冷战坦克弱点都在哪？",
+        "author": "罗非鱼解说",
+        "publishedAt": "2025-12-12T18:28:48+08:00",
+        "gameVersion": "2.49.0.98"
+      },
+      "mediaTime": 1046,
+      "actualTime": 1046,
+      "width": 1920,
+      "height": 1080,
+      "encoding": "lossless-webp",
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "vehicleId": "ussr_is_6",
+      "vehicleEnglishName": "IS-6",
+      "country": "USSR",
+      "vehicleIdentityStatus": "confirmed",
+      "mainImageUsable": false,
+      "purpose": "source-evidence-only",
+      "status": "data-reviewed",
+      "proofSnapshotSHA256": "a080415be4880d5910aab3498bf083c25a81e8a2d495530a8ff48338c776dad8"
+    },
+    {
+      "id": "2818e03af29bea6a6590a9d45716d13b2816ad406c6c71fe431ab91d2635dd1c",
+      "path": "images/USSR/USSR-IS-6-17m30s.webp",
+      "sha256": "2818e03af29bea6a6590a9d45716d13b2816ad406c6c71fe431ab91d2635dd1c",
+      "bytes": 1414726,
+      "sourceFrameSHA256": "2976ed870056b1e4f6d8f218cec108563867068fba7c652cb8b36002522316d5",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1SPmEBJE3y/",
+        "title": "超级旷世巨作！萌新别划走，一个视频告诉你战争雷霆各系二战/冷战坦克弱点都在哪？",
+        "author": "罗非鱼解说",
+        "publishedAt": "2025-12-12T18:28:48+08:00",
+        "gameVersion": "2.49.0.98"
+      },
+      "mediaTime": 1050,
+      "actualTime": 1050,
+      "width": 1920,
+      "height": 1080,
+      "encoding": "lossless-webp",
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "vehicleId": "ussr_is_6",
+      "vehicleEnglishName": "IS-6",
+      "country": "USSR",
+      "vehicleIdentityStatus": "confirmed",
+      "mainImageUsable": true,
+      "purpose": "main-image-candidate",
+      "status": "data-reviewed",
+      "proofSnapshotSHA256": "6ed5803ec6fdb2c70283923a16fc4a200d39c9b589901d582b63d43ba16132dd"
+    },
+    {
+      "id": "61463a1307d6556933c7b26ddc3ade68b839450bb907d9602c409e8ca4ff55a0",
+      "path": "images/USSR/USSR-IS-6-17m35s.webp",
+      "sha256": "61463a1307d6556933c7b26ddc3ade68b839450bb907d9602c409e8ca4ff55a0",
+      "bytes": 1308798,
+      "sourceFrameSHA256": "5d0f352a11b1ae3f55a431c1db6f5a4ba1c3d4c5223efa7808613b8e29ebb3d3",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1SPmEBJE3y/",
+        "title": "超级旷世巨作！萌新别划走，一个视频告诉你战争雷霆各系二战/冷战坦克弱点都在哪？",
+        "author": "罗非鱼解说",
+        "publishedAt": "2025-12-12T18:28:48+08:00",
+        "gameVersion": "2.49.0.98"
+      },
+      "mediaTime": 1055.017,
+      "actualTime": 1055.017,
+      "width": 1920,
+      "height": 1080,
+      "encoding": "lossless-webp",
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "vehicleId": "ussr_is_6",
+      "vehicleEnglishName": "IS-6",
+      "country": "USSR",
+      "vehicleIdentityStatus": "confirmed",
+      "mainImageUsable": false,
+      "purpose": "source-evidence-only",
+      "status": "data-reviewed",
+      "proofSnapshotSHA256": "e96a56e76967abce42c639c549e846fa1357c68ba2434bd05f13fc92b38087a4"
+    },
+    {
+      "id": "c127141aa0dbf0dcbda1ca05410585e69d438c18aae8cc99b7fc81c5886b9f2c",
+      "path": "images/USSR/USSR-IS-6-17m40s.webp",
+      "sha256": "c127141aa0dbf0dcbda1ca05410585e69d438c18aae8cc99b7fc81c5886b9f2c",
+      "bytes": 1667462,
+      "sourceFrameSHA256": "fd8d6b5be9849c303e7263ecb53df6eb71bf4ee22713ab188428a3137268baf2",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1SPmEBJE3y/",
+        "title": "超级旷世巨作！萌新别划走，一个视频告诉你战争雷霆各系二战/冷战坦克弱点都在哪？",
+        "author": "罗非鱼解说",
+        "publishedAt": "2025-12-12T18:28:48+08:00",
+        "gameVersion": "2.49.0.98"
+      },
+      "mediaTime": 1060.017,
+      "actualTime": 1060.017,
+      "width": 1920,
+      "height": 1080,
+      "encoding": "lossless-webp",
+      "kind": "source-video-frame-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "vehicleId": "ussr_is_6",
+      "vehicleEnglishName": "IS-6",
+      "country": "USSR",
+      "vehicleIdentityStatus": "confirmed",
+      "mainImageUsable": false,
+      "purpose": "source-evidence-only",
+      "status": "data-reviewed",
+      "proofSnapshotSHA256": "962a0e6a9e581169a66437efbe0ba1e3e7422d2da2bb6ec5bcaeacfc4149e3fd"
+    },
+    {
+      "id": "80ec26366c8ee15949503a79f9b3e6edffeb432726c9ace3cbf7601e75acd9da",
+      "path": "images/USSR/USSR-IS-2-1943-front.webp",
+      "sha256": "80ec26366c8ee15949503a79f9b3e6edffeb432726c9ace3cbf7601e75acd9da",
+      "bytes": 230146,
+      "width": 620,
+      "height": 510,
+      "sourceFrameSHA256": "c391b0a63ed8e52a57f5dc5a57f9ccba61af1890e056ec4118850e7465e85b86",
+      "parentSHA256": "3fbebb36e7a25c12c01629d373aea893e3150e618312a5af943244d038ea7f51",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1SPmEBJE3y/",
+        "title": "超级旷世巨作！萌新别划走，一个视频告诉你战争雷霆各系二战/冷战坦克弱点都在哪？",
+        "author": "罗非鱼解说",
+        "publishedAt": "2025-12-12T18:28:48+08:00",
+        "gameVersion": "2.49.0.98"
+      },
+      "mediaTime": 1012,
+      "actualTime": 1012,
+      "kind": "front-view-crop-webp",
+      "encoding": "lossless-webp",
+      "roles": [
+        "photo"
+      ],
+      "vehicleId": "ussr_is_2_1943",
+      "vehicleEnglishName": "IS-2 (1943)",
+      "country": "USSR",
+      "vehicleIdentityStatus": "confirmed",
+      "mainImageUsable": true,
+      "status": "conditional-illustration-reviewed",
+      "proofSnapshotSHA256": "991cfbb16300aafae6f11685ca4ca8d97ff09ed7b0e388a4eec60a01be56e0bc"
+    },
+    {
+      "id": "47db71de4908d9a90e4740131cd94d1d9a8c681fa5751b2349df5318e9c4aaf4",
+      "path": "images/USSR/USSR-IS-6-front.webp",
+      "sha256": "47db71de4908d9a90e4740131cd94d1d9a8c681fa5751b2349df5318e9c4aaf4",
+      "bytes": 161308,
+      "width": 520,
+      "height": 330,
+      "sourceFrameSHA256": "2976ed870056b1e4f6d8f218cec108563867068fba7c652cb8b36002522316d5",
+      "parentSHA256": "2818e03af29bea6a6590a9d45716d13b2816ad406c6c71fe431ab91d2635dd1c",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1SPmEBJE3y/",
+        "title": "超级旷世巨作！萌新别划走，一个视频告诉你战争雷霆各系二战/冷战坦克弱点都在哪？",
+        "author": "罗非鱼解说",
+        "publishedAt": "2025-12-12T18:28:48+08:00",
+        "gameVersion": "2.49.0.98"
+      },
+      "mediaTime": 1050,
+      "actualTime": 1050,
+      "kind": "front-view-crop-webp",
+      "encoding": "lossless-webp",
+      "roles": [
+        "photo"
+      ],
+      "vehicleId": "ussr_is_6",
+      "vehicleEnglishName": "IS-6",
+      "country": "USSR",
+      "vehicleIdentityStatus": "confirmed",
+      "mainImageUsable": true,
+      "status": "pending-specific-recommendation",
+      "proofSnapshotSHA256": "6ed5803ec6fdb2c70283923a16fc4a200d39c9b589901d582b63d43ba16132dd"
     }
   ],
   "models": {
@@ -2351,6 +2661,14 @@
     "ussr_is_3": {
       "photo": "images/USSR/USSR-IS-3-front.webp",
       "raw": "images/USSR/USSR-IS-3-full.webp"
+    },
+    "ussr_is_2_1943": {
+      "photo": "images/USSR/USSR-IS-2-1943-front.webp",
+      "raw": "images/USSR/USSR-IS-2-1943-16m52s.webp"
+    },
+    "ussr_is_6": {
+      "photo": "images/USSR/USSR-IS-6-front.webp",
+      "raw": "images/USSR/USSR-IS-6-17m30s.webp"
     }
   },
   "namingPolicy": "Country abbreviation + full English vehicle model + view or video timestamp; no content hashes in filenames."
