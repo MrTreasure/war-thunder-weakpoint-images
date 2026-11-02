@@ -1,0 +1,11 @@
+.*
+!.gitignore
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.html
+*.log
+*.tmp
+*.next
+node_modules/
