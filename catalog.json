@@ -2059,6 +2059,276 @@
       "country": "USSR",
       "vehicleEnglishName": "T-72A",
       "vehicleIdentityStatus": "confirmed"
+    },
+    {
+      "id": "6f544bd6f18ce8bead3a7511d22df47b3dc6c5b466946ebf57cecc944250fd50",
+      "path": "images/USSR/USSR-T-80U-E1-03m02s.webp",
+      "sha256": "6f544bd6f18ce8bead3a7511d22df47b3dc6c5b466946ebf57cecc944250fd50",
+      "bytes": 2228958,
+      "sourceFrameSHA256": "b496f550b22ccfb252e5e700f14f784791ee3b0370773db63a19731bd218e9de",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28T22:59:24+08:00"
+      },
+      "mediaTime": 182.033,
+      "actualTime": 182.033,
+      "width": 1920,
+      "height": 1080,
+      "kind": "source-video-frame-webp",
+      "encoding": "lossless-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "status": "confirmed-source-evidence-main-image-pending",
+      "purpose": "source-evidence-only",
+      "mainImageUsable": false,
+      "vehicleId": "ussr_t_80ue1",
+      "vehicleEnglishName": "T-80U-E1",
+      "country": "USSR",
+      "vehicleIdentityStatus": "confirmed",
+      "proofSnapshotSHA256": "6c1e4074a40324920be7b4372c6f2840d2d8a6ce72d7e2f9a2f29eb454180a0e"
+    },
+    {
+      "id": "78be4f67bda738ed0e817562e2c9e3b10d4862e49c1c97c59948f4010484fbfb",
+      "path": "images/USSR/USSR-T-80U-E1-03m25s.webp",
+      "sha256": "78be4f67bda738ed0e817562e2c9e3b10d4862e49c1c97c59948f4010484fbfb",
+      "bytes": 1745068,
+      "sourceFrameSHA256": "2fdf4d60160f3a3d31f7341217f97a635bcbcbeb414634de57890794ca08f751",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28T22:59:24+08:00"
+      },
+      "mediaTime": 205,
+      "actualTime": 205,
+      "width": 1920,
+      "height": 1080,
+      "kind": "source-video-frame-webp",
+      "encoding": "lossless-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "status": "confirmed-source-evidence-main-image-pending",
+      "purpose": "source-evidence-only",
+      "mainImageUsable": false,
+      "vehicleId": "ussr_t_80ue1",
+      "vehicleEnglishName": "T-80U-E1",
+      "country": "USSR",
+      "vehicleIdentityStatus": "confirmed",
+      "proofSnapshotSHA256": "a53ad746d8e9ce51b0f9579765f84d4ff20ea4c9786bd4162a66acb444bea52b"
+    },
+    {
+      "id": "5e2d08985516b7d4c631c53b71861047b52e48e75ca1c3bd7eb1b7352573e006",
+      "path": "images/USSR/USSR-T-80U-E1-03m45s.webp",
+      "sha256": "5e2d08985516b7d4c631c53b71861047b52e48e75ca1c3bd7eb1b7352573e006",
+      "bytes": 2013520,
+      "sourceFrameSHA256": "519bcbc1d109ba42f10d828fadfa23b93203fc33980e2d29de89fc088aa5044b",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28T22:59:24+08:00"
+      },
+      "mediaTime": 225,
+      "actualTime": 225,
+      "width": 1920,
+      "height": 1080,
+      "kind": "source-video-frame-webp",
+      "encoding": "lossless-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "status": "confirmed-source-evidence-main-image-pending",
+      "purpose": "source-evidence-only",
+      "mainImageUsable": false,
+      "vehicleId": "ussr_t_80ue1",
+      "vehicleEnglishName": "T-80U-E1",
+      "country": "USSR",
+      "vehicleIdentityStatus": "confirmed",
+      "proofSnapshotSHA256": "b02b4857f811d16040fafefd6ee333acee9a6527c039edde16ba173f05cf6ddf"
+    },
+    {
+      "id": "455f8543d90633302ddd7d009d421fed9106e68bae460a245226ca14ecbcd962",
+      "path": "images/GER/GER-Leopard-2-PzBtl-123-06m00s.webp",
+      "sha256": "455f8543d90633302ddd7d009d421fed9106e68bae460a245226ca14ecbcd962",
+      "bytes": 2415844,
+      "sourceFrameSHA256": "6b0e05033c39e1d4e8d2595c4fcbe18448dbee0cc0cd9f0022b67773b363dcac",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28T22:59:24+08:00"
+      },
+      "mediaTime": 360,
+      "actualTime": 360,
+      "width": 1920,
+      "height": 1080,
+      "kind": "source-video-frame-webp",
+      "encoding": "lossless-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "status": "confirmed-source-evidence-main-image-pending",
+      "purpose": "source-evidence-only",
+      "mainImageUsable": false,
+      "vehicleId": "germ_leopard_2a4_pzbtl_123",
+      "vehicleEnglishName": "Leopard 2 (PzBtl 123)",
+      "country": "GER",
+      "vehicleIdentityStatus": "confirmed",
+      "proofSnapshotSHA256": "d2be60b315be10ae1c1469062867ceb95dfc352f0e003282ba1d7111bf051b4a"
+    },
+    {
+      "id": "817b3d0b6e0cd15f7c2e4ce8aac116302035ff4a77ddce628a9cc87f6236ffe7",
+      "path": "images/GER/GER-Leopard-2-PzBtl-123-06m20s.webp",
+      "sha256": "817b3d0b6e0cd15f7c2e4ce8aac116302035ff4a77ddce628a9cc87f6236ffe7",
+      "bytes": 1833900,
+      "sourceFrameSHA256": "b61513f085078907ca7c2ebc9c923ec36cee1fae3ed0c7d04a202abcc69bffa2",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28T22:59:24+08:00"
+      },
+      "mediaTime": 380.017,
+      "actualTime": 380.017,
+      "width": 1920,
+      "height": 1080,
+      "kind": "source-video-frame-webp",
+      "encoding": "lossless-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "status": "confirmed-source-evidence-main-image-pending",
+      "purpose": "source-evidence-only",
+      "mainImageUsable": false,
+      "vehicleId": "germ_leopard_2a4_pzbtl_123",
+      "vehicleEnglishName": "Leopard 2 (PzBtl 123)",
+      "country": "GER",
+      "vehicleIdentityStatus": "confirmed",
+      "proofSnapshotSHA256": "f7660485850b97125798dc511684fb0de4d3c5eb7ec79a6daa641b7d46f1215d"
+    },
+    {
+      "id": "79a8524d936a7cc1e3e1caec88e33fbe7793eafe880a0b36cb95194bc82bcc81",
+      "path": "images/GER/GER-Leopard-2-PzBtl-123-06m45s.webp",
+      "sha256": "79a8524d936a7cc1e3e1caec88e33fbe7793eafe880a0b36cb95194bc82bcc81",
+      "bytes": 1760738,
+      "sourceFrameSHA256": "2c59632622947fc06c01ec1177a7d580546a7113cf6bfbec2851c8de72ef4b7f",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28T22:59:24+08:00"
+      },
+      "mediaTime": 405.033,
+      "actualTime": 405.033,
+      "width": 1920,
+      "height": 1080,
+      "kind": "source-video-frame-webp",
+      "encoding": "lossless-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "status": "confirmed-source-evidence-main-image-pending",
+      "purpose": "source-evidence-only",
+      "mainImageUsable": false,
+      "vehicleId": "germ_leopard_2a4_pzbtl_123",
+      "vehicleEnglishName": "Leopard 2 (PzBtl 123)",
+      "country": "GER",
+      "vehicleIdentityStatus": "confirmed",
+      "proofSnapshotSHA256": "e5e41b873254bc20bab3a1c38bef640ec7adf3e56d9319ae3e40d6d95a222c77"
+    },
+    {
+      "id": "b27be669e4c3480ff5689e8798909f2e6a9bb7415b74653a84e4d934358c5c25",
+      "path": "images/GER/GER-Leopard-2-PzBtl-123-07m00s.webp",
+      "sha256": "b27be669e4c3480ff5689e8798909f2e6a9bb7415b74653a84e4d934358c5c25",
+      "bytes": 1742364,
+      "sourceFrameSHA256": "364e212c024ca84cd6f57af78a0c6191d357020b9d372c7587742bd1fd6b2b4d",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28T22:59:24+08:00"
+      },
+      "mediaTime": 420.017,
+      "actualTime": 420.017,
+      "width": 1920,
+      "height": 1080,
+      "kind": "source-video-frame-webp",
+      "encoding": "lossless-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "status": "confirmed-source-evidence-main-image-pending",
+      "purpose": "source-evidence-only",
+      "mainImageUsable": false,
+      "vehicleId": "germ_leopard_2a4_pzbtl_123",
+      "vehicleEnglishName": "Leopard 2 (PzBtl 123)",
+      "country": "GER",
+      "vehicleIdentityStatus": "confirmed",
+      "proofSnapshotSHA256": "0695563c715f398ccb71669d9ba42d503bd0c4cb53904989bb30405f3b14e068"
+    },
+    {
+      "id": "9e039e17d5cde2c0bf4fc956d2c354214bf13edc8829e1c68833491507df942e",
+      "path": "images/GER/GER-Leopard-2-PzBtl-123-06m10s.webp",
+      "sha256": "9e039e17d5cde2c0bf4fc956d2c354214bf13edc8829e1c68833491507df942e",
+      "bytes": 2220262,
+      "sourceFrameSHA256": "b3b377981760d37b90759eeafd3d080ad3d98ac9e74f46186d92eb019e9d4683",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28T22:59:24+08:00"
+      },
+      "mediaTime": 370.017,
+      "actualTime": 370.017,
+      "width": 1920,
+      "height": 1080,
+      "kind": "source-video-frame-webp",
+      "encoding": "lossless-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "status": "confirmed-source-evidence-main-image-pending",
+      "purpose": "source-evidence-only",
+      "mainImageUsable": false,
+      "vehicleId": "germ_leopard_2a4_pzbtl_123",
+      "vehicleEnglishName": "Leopard 2 (PzBtl 123)",
+      "country": "GER",
+      "vehicleIdentityStatus": "confirmed",
+      "proofSnapshotSHA256": "bb360ef97097b9a7e48bc527cf96ffe9a87f4881752ddb010aa1fd3775141ceb"
+    },
+    {
+      "id": "e9f7ae1465fb6f6b0b834d831a8c467ca762a08c78dcd83e74f61ac951e6ba2e",
+      "path": "images/GER/GER-Leopard-2-PzBtl-123-06m30s.webp",
+      "sha256": "e9f7ae1465fb6f6b0b834d831a8c467ca762a08c78dcd83e74f61ac951e6ba2e",
+      "bytes": 2052564,
+      "sourceFrameSHA256": "6ef3c97bc354ae420fc6d20ed217c17369ffa58fd22a3e3807675952ce1f58f6",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUAezbE1p/",
+        "title": "购入次顶礼包车不会打弱点的看过来！！！",
+        "author": "GPU馄饨",
+        "publishedAt": "2026-02-28T22:59:24+08:00"
+      },
+      "mediaTime": 390,
+      "actualTime": 390,
+      "width": 1920,
+      "height": 1080,
+      "kind": "source-video-frame-webp",
+      "encoding": "lossless-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "status": "confirmed-source-evidence-main-image-pending",
+      "purpose": "source-evidence-only",
+      "mainImageUsable": false,
+      "vehicleId": "germ_leopard_2a4_pzbtl_123",
+      "vehicleEnglishName": "Leopard 2 (PzBtl 123)",
+      "country": "GER",
+      "vehicleIdentityStatus": "confirmed",
+      "proofSnapshotSHA256": "e372858a567c18bfa7840698a3c64d8f1cf066e3991391bf45e1f07247238302"
     }
   ],
   "models": {
