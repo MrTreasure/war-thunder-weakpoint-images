@@ -9983,6 +9983,173 @@
       "encoding": "source-webp-preserved",
       "id": "221031617291fb1f14d90516e45054de8e7698e88974da4100f35332cc06459d",
       "actualTime": 360.033312
+    },
+    {
+      "path": "images/USSR/USSR-T-90A-forum-post-13-image-1-20250527-native2560x1440.webp",
+      "sha256": "7b56dd0f5c215774bc8a22508cebd4335ae58b205f48dc638098f09e7e4bced6",
+      "bytes": 2818820,
+      "width": 2560,
+      "height": 1440,
+      "vehicleId": "ussr_t_90a",
+      "country": "USSR",
+      "source": {
+        "kind": "forum-image",
+        "url": "https://forum.warthunder.com/t/fix-of-armors-and-penetration-levels-in-game/239289/13",
+        "imageUrl": "https://forum-en-cdn.warthunder.com/original/4X/8/c/5/8c5d7944022808d73fc8bf53a85b345b531606d5.jpeg",
+        "title": "T-90A historical armour analysis · forum discussion",
+        "author": "Necronomica",
+        "publishedAt": "2025-05-27T20:00:08.903Z",
+        "gameVersion": "2.45.1.102"
+      },
+      "sourceKind": "forum-image",
+      "sourceTime": null,
+      "mediaTime": null,
+      "sourcePublishedAt": "2025-05-27T20:00:08.903Z",
+      "sourceImageUrl": "https://forum-en-cdn.warthunder.com/original/4X/8/c/5/8c5d7944022808d73fc8bf53a85b345b531606d5.jpeg",
+      "sourceFrameSHA256": "83d38c0398a5258ed1dc4d61673f258bdc09d2542cce729f623bec0bcc3f5bc0",
+      "sourceFrameHashKind": "source-original-jpeg",
+      "proofSnapshotSHA256": "7dc30ffb837a8e087d1b2ebfb903262e1a59645f69d360706e815a6e82c41d19",
+      "sourceGameVersion": "2.45.1.102",
+      "caseId": null,
+      "kind": "source-static-image-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "purpose": "source-evidence-only",
+      "sceneKind": "static-xray-shot-result-context",
+      "visibleView": "elevated-oblique-front",
+      "mainImageUsable": false,
+      "hasGreenArmourMap": false,
+      "id": "7b56dd0f5c215774bc8a22508cebd4335ae58b205f48dc638098f09e7e4bced6",
+      "actualTime": null,
+      "encoding": "source-webp-preserved"
+    },
+    {
+      "path": "images/USSR/USSR-T-90A-forum-post-13-image-2-20250527-native2560x1440.webp",
+      "sha256": "a14975237943413fcbd835d90435e230b6556876b8e1499848a374faa1b7d86c",
+      "bytes": 2690632,
+      "width": 2560,
+      "height": 1440,
+      "vehicleId": "ussr_t_90a",
+      "country": "USSR",
+      "source": {
+        "kind": "forum-image",
+        "url": "https://forum.warthunder.com/t/fix-of-armors-and-penetration-levels-in-game/239289/13",
+        "imageUrl": "https://forum-en-cdn.warthunder.com/original/4X/9/5/4/954e200a851283875d12a317dd9f2e7b548765f4.jpeg",
+        "title": "T-90A historical armour analysis · forum discussion",
+        "author": "Necronomica",
+        "publishedAt": "2025-05-27T20:00:08.903Z",
+        "gameVersion": "2.45.1.102"
+      },
+      "sourceKind": "forum-image",
+      "sourceTime": null,
+      "mediaTime": null,
+      "sourcePublishedAt": "2025-05-27T20:00:08.903Z",
+      "sourceImageUrl": "https://forum-en-cdn.warthunder.com/original/4X/9/5/4/954e200a851283875d12a317dd9f2e7b548765f4.jpeg",
+      "sourceFrameSHA256": "63fa8b68b59399a3ac5e5304ff9e812cb87807a32e31ea5239e1c5d5b2ce214d",
+      "sourceFrameHashKind": "source-original-jpeg",
+      "proofSnapshotSHA256": "e9bca90a8c2c44a2ce6682bd736ef0063a3b28cc82208ae57583bae3555438e5",
+      "sourceGameVersion": "2.45.1.102",
+      "caseId": null,
+      "kind": "source-static-image-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "purpose": "source-evidence-only",
+      "sceneKind": "static-xray-shot-result-context",
+      "visibleView": "elevated-oblique-front",
+      "mainImageUsable": false,
+      "hasGreenArmourMap": false,
+      "id": "a14975237943413fcbd835d90435e230b6556876b8e1499848a374faa1b7d86c",
+      "actualTime": null,
+      "encoding": "source-webp-preserved"
+    },
+    {
+      "path": "images/USSR/USSR-T-90A-forum-post-18-image-3-20250527-native2560x1440.webp",
+      "sha256": "1951bfc3066b7c95d27f398d18e31e3555d8b7e64048288c2aa587bda20bbfea",
+      "bytes": 2703584,
+      "width": 2560,
+      "height": 1440,
+      "vehicleId": "ussr_t_90a",
+      "country": "USSR",
+      "source": {
+        "kind": "forum-image",
+        "url": "https://forum.warthunder.com/t/fix-of-armors-and-penetration-levels-in-game/239289/18",
+        "imageUrl": "https://forum-en-cdn.warthunder.com/original/4X/b/1/c/b1c871e410f47ed5d62031e8a35dd20d708b7537.jpeg",
+        "title": "T-90A historical armour analysis · forum discussion",
+        "author": "Necronomica",
+        "publishedAt": "2025-05-27T20:16:48.284Z",
+        "gameVersion": "2.45.1.102"
+      },
+      "sourceKind": "forum-image",
+      "sourceTime": null,
+      "mediaTime": null,
+      "sourcePublishedAt": "2025-05-27T20:16:48.284Z",
+      "sourceImageUrl": "https://forum-en-cdn.warthunder.com/original/4X/b/1/c/b1c871e410f47ed5d62031e8a35dd20d708b7537.jpeg",
+      "sourceFrameSHA256": "15e99ac46b4e0d61a97f5491d7fb28487edb06a964b0f90d1381ead8241977f9",
+      "sourceFrameHashKind": "source-original-jpeg",
+      "proofSnapshotSHA256": "eaeca29d44b5e5eae274f628a1f092af6d724282ec6bcfc2b2134cb71014c1a1",
+      "sourceGameVersion": "2.45.1.102",
+      "caseId": "ussr_t_90a:forum239289:post18",
+      "kind": "source-static-image-webp",
+      "roles": [
+        "source-frame"
+      ],
+      "purpose": "source-evidence-only",
+      "sceneKind": "opaque-solid-armour-penetration-map",
+      "visibleView": "front",
+      "mainImageUsable": false,
+      "hasGreenArmourMap": true,
+      "id": "1951bfc3066b7c95d27f398d18e31e3555d8b7e64048288c2aa587bda20bbfea",
+      "actualTime": null,
+      "encoding": "source-webp-preserved"
+    },
+    {
+      "path": "images/USSR/USSR-T-90A-historical-front.webp",
+      "sha256": "7cd7c9fea662f40c0d052934401228a1f1cec1b9a7456282b2640370e9b67ae8",
+      "bytes": 1320042,
+      "width": 1600,
+      "height": 1080,
+      "vehicleId": "ussr_t_90a",
+      "country": "USSR",
+      "source": {
+        "kind": "forum-image",
+        "url": "https://forum.warthunder.com/t/fix-of-armors-and-penetration-levels-in-game/239289/18",
+        "imageUrl": "https://forum-en-cdn.warthunder.com/original/4X/b/1/c/b1c871e410f47ed5d62031e8a35dd20d708b7537.jpeg",
+        "title": "T-90A historical armour analysis · forum discussion",
+        "author": "Necronomica",
+        "publishedAt": "2025-05-27T20:16:48.284Z",
+        "gameVersion": "2.45.1.102"
+      },
+      "sourceKind": "forum-image",
+      "sourceTime": null,
+      "mediaTime": null,
+      "sourcePublishedAt": "2025-05-27T20:16:48.284Z",
+      "sourceImageUrl": "https://forum-en-cdn.warthunder.com/original/4X/b/1/c/b1c871e410f47ed5d62031e8a35dd20d708b7537.jpeg",
+      "sourceFrameSHA256": "15e99ac46b4e0d61a97f5491d7fb28487edb06a964b0f90d1381ead8241977f9",
+      "sourceFrameHashKind": "source-original-jpeg",
+      "proofSnapshotSHA256": "eaeca29d44b5e5eae274f628a1f092af6d724282ec6bcfc2b2134cb71014c1a1",
+      "sourceGameVersion": "2.45.1.102",
+      "caseId": "ussr_t_90a:forum239289:post18",
+      "kind": "front-view-crop-webp",
+      "roles": [
+        "primary-crop"
+      ],
+      "purpose": "primary-protection-analysis",
+      "sceneKind": "opaque-solid-armour-penetration-map",
+      "visibleView": "front",
+      "mainImageUsable": true,
+      "hasGreenArmourMap": true,
+      "crop": [
+        480,
+        100,
+        1600,
+        1080
+      ],
+      "mainViewKind": "protection-analysis",
+      "id": "7cd7c9fea662f40c0d052934401228a1f1cec1b9a7456282b2640370e9b67ae8",
+      "actualTime": null,
+      "encoding": "lossless-webp"
     }
   ],
   "models": {
@@ -10177,6 +10344,10 @@
     "sw_strv_122b_plus": {
       "raw": "images/SWE/SWE-Strv-122B-Plus-source-03m00s-native1920x1078-capture-20261103.webp",
       "photo": "images/SWE/SWE-Strv-122B-Plus-front.webp"
+    },
+    "ussr_t_90a": {
+      "raw": "images/USSR/USSR-T-90A-forum-post-18-image-3-20250527-native2560x1440.webp",
+      "photo": "images/USSR/USSR-T-90A-historical-front.webp"
     }
   },
   "namingPolicy": "Country abbreviation + full English vehicle model + view or video timestamp; no content hashes in filenames."
