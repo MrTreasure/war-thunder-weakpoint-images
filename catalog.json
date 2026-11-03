@@ -10855,6 +10855,90 @@
       ],
       "id": "fb99cf5761c78ca2352bce6ce849542fe64d736c979b6fc1929030b7bf9cc074",
       "encoding": "lossless-webp"
+    },
+    {
+      "path": "images/CHN/CHN-ZTZ88B-front-00m20s.webp",
+      "sha256": "f049bc34b6a720381a9348d22fbeb55b2cf501e8e1cbb5ab0e4d04328eab0514",
+      "bytes": 316968,
+      "width": 900,
+      "height": 620,
+      "vehicleId": "cn_ztz_88b",
+      "country": "CHN",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1WuGv6TEq2/",
+        "title": "中系庸九门之88B：仅个人观点",
+        "author": "游毛贼2",
+        "publishedAt": "2026-05-23T10:50:21+08:00",
+        "kind": "video",
+        "gameVersion": "2.55.1.122"
+      },
+      "sourceKind": "video",
+      "sourceTime": 20,
+      "mediaTime": 20,
+      "actualTime": 20,
+      "sourceFrameSHA256": "3eaec3a2d1241366c158f8c9876fa31e8991f1618d0fa0f403ecc58e13ac8608",
+      "proofSnapshotSHA256": "4095555187e35fadaa21f10b159c5b92a23be654cdfa17b9cb08a1b2203c1bc3",
+      "sourceGameVersion": "2.55.1.122",
+      "caseId": "cn_ztz_88b:BV1WuGv6TEq2:20000",
+      "kind": "primary-protection-preview-crop",
+      "roles": [
+        "primary-protection-preview"
+      ],
+      "purpose": "primary-protection-preview",
+      "mainImageUsable": true,
+      "hasGreenArmourMap": false,
+      "hasGreenHitIndicator": false,
+      "nativeResized": false,
+      "sceneKind": "protection-preview",
+      "encoding": "lossless-webp",
+      "crop": [
+        570,
+        165,
+        900,
+        620
+      ],
+      "sourceFrameHashBasis": "original-native-PNG",
+      "sourceNativeWebPSHA256": "c3016690b64388eef98d55946e888940b6c66c00728b2fbd5554ce6df13becea",
+      "id": "f049bc34b6a720381a9348d22fbeb55b2cf501e8e1cbb5ab0e4d04328eab0514"
+    },
+    {
+      "path": "images/CHN/CHN-ZTZ88B-native-00m20s.webp",
+      "sha256": "c3016690b64388eef98d55946e888940b6c66c00728b2fbd5554ce6df13becea",
+      "bytes": 1079066,
+      "width": 1920,
+      "height": 1078,
+      "vehicleId": "cn_ztz_88b",
+      "country": "CHN",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1WuGv6TEq2/",
+        "title": "中系庸九门之88B：仅个人观点",
+        "author": "游毛贼2",
+        "publishedAt": "2026-05-23T10:50:21+08:00",
+        "kind": "video",
+        "gameVersion": "2.55.1.122"
+      },
+      "sourceKind": "video",
+      "sourceTime": 20,
+      "mediaTime": 20,
+      "actualTime": 20,
+      "sourceFrameSHA256": "3eaec3a2d1241366c158f8c9876fa31e8991f1618d0fa0f403ecc58e13ac8608",
+      "proofSnapshotSHA256": "4095555187e35fadaa21f10b159c5b92a23be654cdfa17b9cb08a1b2203c1bc3",
+      "sourceGameVersion": "2.55.1.122",
+      "caseId": "cn_ztz_88b:BV1WuGv6TEq2:20000",
+      "kind": "source-evidence-native",
+      "roles": [
+        "native-source-evidence"
+      ],
+      "purpose": "source-evidence-only",
+      "mainImageUsable": false,
+      "hasGreenArmourMap": false,
+      "hasGreenHitIndicator": false,
+      "nativeResized": false,
+      "sceneKind": "protection-preview",
+      "encoding": "source-webp-preserved",
+      "sourceFrameHashBasis": "original-native-PNG",
+      "sourceNativeWebPSHA256": "c3016690b64388eef98d55946e888940b6c66c00728b2fbd5554ce6df13becea",
+      "id": "c3016690b64388eef98d55946e888940b6c66c00728b2fbd5554ce6df13becea"
     }
   ],
   "models": {
@@ -11065,6 +11149,10 @@
     "ussr_t_90m_2020": {
       "raw": "images/USSR/USSR-T-90M-forum-post216-20260610-native1863x991.webp",
       "photo": "images/USSR/USSR-T-90M-forum-post216-20260610-front-crop720x470.webp"
+    },
+    "cn_ztz_88b": {
+      "raw": "images/CHN/CHN-ZTZ88B-native-00m20s.webp",
+      "photo": "images/CHN/CHN-ZTZ88B-front-00m20s.webp"
     }
   },
   "namingPolicy": "Country abbreviation + full English vehicle model + view or video timestamp; no content hashes in filenames."
