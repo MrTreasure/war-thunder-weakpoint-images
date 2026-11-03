@@ -10939,6 +10939,110 @@
       "sourceFrameHashBasis": "original-native-PNG",
       "sourceNativeWebPSHA256": "c3016690b64388eef98d55946e888940b6c66c00728b2fbd5554ce6df13becea",
       "id": "c3016690b64388eef98d55946e888940b6c66c00728b2fbd5554ce6df13becea"
+    },
+    {
+      "path": "images/CHN/CHN-ZTZ59D1-front-00m16s.webp",
+      "sha256": "e3a05b13faa59357949b144f0de19db01a0f11c8bd17154852acfced3215c9bd",
+      "bytes": 242878,
+      "width": 560,
+      "height": 450,
+      "vehicleId": "cn_type_59d",
+      "country": "CHN",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUVu6BEWR/",
+        "title": "牢中神九门59D1仅个人观点",
+        "author": "游毛贼2",
+        "publishedAt": "2026-05-30",
+        "publishedAtDOM": "2026-05-30 13:11:42",
+        "timezoneSpecifiedByDOM": null,
+        "kind": "video",
+        "gameVersion": "2.55.1.136"
+      },
+      "sourceKind": "video",
+      "sourceTime": 16.069614,
+      "mediaTime": 16.07,
+      "actualTime": 16.069614,
+      "sourceFrameSHA256": "39ec815f312adce674c7ce36c6625a5d52afd218e6b47da10f21dd91e0742be1",
+      "sourceFrameHashBasis": "original-native-PNG",
+      "sourceNativeWebPSHA256": "1d27bdef1cc9d4d185a7f31d3fc64ef08a73ef90a4873f5c3029cfd2c077d6bb",
+      "proofSnapshotSHA256": "6bf7aa231e0e20c5506027e176898d0b9aef51f9098ffdb738351d3c1c39eb4d",
+      "sourceGameVersion": "2.55.1.136",
+      "caseId": null,
+      "kind": "primary-armor-layout-crop",
+      "roles": [
+        "primary-armor-layout"
+      ],
+      "purpose": "primary-armor-layout",
+      "mainImageUsable": true,
+      "hasGreenArmourMap": false,
+      "hasGreenHitIndicator": false,
+      "colorSemantics": "armor-thickness-and-material-only",
+      "nativeResized": false,
+      "sceneKind": "armor-layout",
+      "encoding": "lossless-webp",
+      "compression": {
+        "codec": "libwebp",
+        "lossless": true,
+        "compression_level": 6
+      },
+      "backgroundOtherVehiclePresent": true,
+      "backgroundOccludesTarget": false,
+      "crop": [
+        700,
+        190,
+        560,
+        450
+      ],
+      "id": "e3a05b13faa59357949b144f0de19db01a0f11c8bd17154852acfced3215c9bd"
+    },
+    {
+      "path": "images/CHN/CHN-ZTZ59D1-native-00m16s.webp",
+      "sha256": "1d27bdef1cc9d4d185a7f31d3fc64ef08a73ef90a4873f5c3029cfd2c077d6bb",
+      "bytes": 1261648,
+      "width": 1920,
+      "height": 1078,
+      "vehicleId": "cn_type_59d",
+      "country": "CHN",
+      "source": {
+        "url": "https://www.bilibili.com/video/BV1PUVu6BEWR/",
+        "title": "牢中神九门59D1仅个人观点",
+        "author": "游毛贼2",
+        "publishedAt": "2026-05-30",
+        "publishedAtDOM": "2026-05-30 13:11:42",
+        "timezoneSpecifiedByDOM": null,
+        "kind": "video",
+        "gameVersion": "2.55.1.136"
+      },
+      "sourceKind": "video",
+      "sourceTime": 16.069614,
+      "mediaTime": 16.07,
+      "actualTime": 16.069614,
+      "sourceFrameSHA256": "39ec815f312adce674c7ce36c6625a5d52afd218e6b47da10f21dd91e0742be1",
+      "sourceFrameHashBasis": "original-native-PNG",
+      "sourceNativeWebPSHA256": "1d27bdef1cc9d4d185a7f31d3fc64ef08a73ef90a4873f5c3029cfd2c077d6bb",
+      "proofSnapshotSHA256": "6bf7aa231e0e20c5506027e176898d0b9aef51f9098ffdb738351d3c1c39eb4d",
+      "sourceGameVersion": "2.55.1.136",
+      "caseId": null,
+      "kind": "source-evidence-native",
+      "roles": [
+        "native-source-evidence"
+      ],
+      "purpose": "source-evidence-only",
+      "mainImageUsable": false,
+      "hasGreenArmourMap": false,
+      "hasGreenHitIndicator": false,
+      "colorSemantics": "armor-thickness-and-material-only",
+      "nativeResized": false,
+      "sceneKind": "armor-layout",
+      "encoding": "lossless-webp",
+      "compression": {
+        "codec": "libwebp",
+        "lossless": true,
+        "compression_level": 6
+      },
+      "backgroundOtherVehiclePresent": true,
+      "backgroundOccludesTarget": false,
+      "id": "1d27bdef1cc9d4d185a7f31d3fc64ef08a73ef90a4873f5c3029cfd2c077d6bb"
     }
   ],
   "models": {
@@ -11153,6 +11257,10 @@
     "cn_ztz_88b": {
       "raw": "images/CHN/CHN-ZTZ88B-native-00m20s.webp",
       "photo": "images/CHN/CHN-ZTZ88B-front-00m20s.webp"
+    },
+    "cn_type_59d": {
+      "raw": "images/CHN/CHN-ZTZ59D1-native-00m16s.webp",
+      "photo": "images/CHN/CHN-ZTZ59D1-front-00m16s.webp"
     }
   },
   "namingPolicy": "Country abbreviation + full English vehicle model + view or video timestamp; no content hashes in filenames."
